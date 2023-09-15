@@ -8,8 +8,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("indentação eraada");
-}
-
 export default Home;
